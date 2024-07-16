@@ -34,7 +34,7 @@ In this part, we aim to ensure that the drone's take-off and landing occur on th
 - Route definition and mapping.
 - Synchronization of take-off and landing routes.
 
-## Part 4: Landing on a Moving Barcode
+## Part 4: Landing on a Moving Aruco code
 The final part focuses on enabling the drone to land in front of a Aruco code, even if the Aruco code is moved (e.g., by a wire). The drone should adjust its landing position to align with the moving Aruco code.
 
 ### Objectives:
